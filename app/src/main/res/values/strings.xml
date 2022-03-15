@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QQ</string>
+    <string name="qq">QQ</string>
+    <string name="qqNumHint">QQ号/手机号/邮箱</string>
+    <string name="qqPassHint">输入密码</string>
+    <string name="serviceAgreement">我已阅读并同意<a herf="https://blog.csdn.net/qq_39602052">服务协议</a>和<a herf="https://github.com/juraws">QQ隐私保护指引</a></string>
+    <string name="sjhdl">手机号登录</string>
+    <string name="zhmm">找回密码</string>
+    <string name="xyhzc">新用户注册</string>
+    <string name="loginsucceed">LoginSucceed</string>
+</resources>
